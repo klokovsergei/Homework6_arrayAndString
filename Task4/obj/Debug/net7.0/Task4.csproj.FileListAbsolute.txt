@@ -1,0 +1,15 @@
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/bin/Debug/net7.0/Task4
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/bin/Debug/net7.0/Task4.deps.json
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/bin/Debug/net7.0/Task4.dll
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/bin/Debug/net7.0/Task4.pdb
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.dll
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/refint/Task4.dll
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.pdb
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/Users/sergejklokov/Documents/GeekBrains/Знакомство с языками программирования/Homework 6. Array and string/Task4/obj/Debug/net7.0/ref/Task4.dll
