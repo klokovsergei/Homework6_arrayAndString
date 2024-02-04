@@ -9,28 +9,28 @@ namespace task3
             Console.Write(str);
         }
 
-        static bool PolindromCheckString(string oldStr)
-        {
-            bool polindrom = true;
-            string str = oldStr.ToLower();
-            //if (str == string.Empty) break;
-            int sizeStr = str.Length;
-            int j = sizeStr - 1;
-            for (int i = 0; i <= sizeStr / 2; i++, j--)
-                polindrom = polindrom && (str[i] == str[j]);
-            return polindrom;
-        }
-
         // static bool PolindromCheckString(string oldStr)
         // {
         //     bool polindrom = true;
         //     string str = oldStr.ToLower();
         //     //if (str == string.Empty) break;
         //     int sizeStr = str.Length;
-        //     for (int i = 0, int j = sizeStr - 1; i <= sizeStr / 2; i++, j--)
+        //     int j = sizeStr - 1;
+        //     for (int i = 0; i <= sizeStr / 2; i++, j--)
         //         polindrom = polindrom && (str[i] == str[j]);
         //     return polindrom;
         // }
+
+        static bool PolindromCheckString(string oldStr)
+        {
+            bool polindrom = true;
+            string str = oldStr.ToLower();
+            //if (str == string.Empty) break;
+            int sizeStr = str.Length;
+            for (int i = 0, j = sizeStr - 1; i <= sizeStr / 2; i++, j--)
+                polindrom = polindrom && (str[i] == str[j]);
+            return polindrom;
+        }
 
         static void Main(string[] args)
         {
